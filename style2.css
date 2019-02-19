@@ -1,0 +1,52 @@
+body{
+     background-color: #686de0;
+}
+
+#fr{
+     display: none;
+}
+
+ul{
+     padding: 0;
+     list-style: none;
+}
+
+#carte{
+     padding: 30px 0 30px 0;
+     text-align: center;
+}
+
+/*navigation*/
+nav{
+     border-bottom: solid 2px #130f40;
+
+}
+nav a{
+     color: white;
+     display: inline-block;
+     width:120px;
+     text-align: center;
+     font-size: 23px;
+}
+/*formulaire*/
+
+#inscForm{
+     width: 350px;
+}
+/*suggestion*/
+#ui-id-1{
+     color: white;
+     border: solid 3px #130f40;
+     background-color: #30336b;
+     width:350px;
+}
+
+.ui-menu-item{
+     border: solid 2px white;
+     margin-bottom: 2px;
+}
+
+.ui-menu-item-wrapper{
+     width: 35px;
+     height:50px;
+}
